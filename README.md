@@ -18,4 +18,4 @@
 ทำหน้าที่แปลง array แบบ แบนๆ ให้เป็น array แบบ nested
 
 ## displayMenu
-ทำหน้าที่แสดง menu ที่เป็นแบบ tree ออกมาด้วย tag ul และ li
+ทำหน้าที่แสดง menu ที่เป็นแบบ tree ออกมาด้วย tag ul และ li ด้วยวิธี recursive
