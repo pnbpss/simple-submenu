@@ -1,5 +1,4 @@
-## simple-submenu
-แสดงวิธีการอ่านข้อมูล menu แบบ nested จากไฟล์ json แล้วมาแสดง ด้วย tag ul, li
+# แสดงวิธีการอ่านข้อมูล menu แบบ nested จากไฟล์ json แล้วมาแสดง ด้วย tag ul, li
 
 # ไฟล์ที่เกี่ยวข้อง
 ## menus.json
@@ -12,7 +11,7 @@
 ## aa.html 
 เป็นตัวอย่างผลที่ได้ ไฟล์นี้ได้มาจากการ run command php.exe menus.php > aa.html
 
-## อธิบายฟังก์ชั่น
+# อธิบายฟังก์ชั่น
 
 ## function buildtree
 ทำหน้าที่แปลง array แบบ แบนๆ ให้เป็น array แบบ nested
